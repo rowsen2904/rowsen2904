@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Rowsen.<br>
-        Learning Python's Web Framework Djago.<br>
+        Learning Python's Web Framework Django.<br>
         Wanna find Middle and Senior Django developers and work with them to get more experience.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/rowsen-bayramov-952a54260/">
@@ -57,3 +57,5 @@
 - 📫 Contact me: **bayrumovw@gmail.com**
 
 - ⌛ Hobbies: Playing CS:GO & Listening to music
+
+- 🎧 Favorite Musician: Max Korzh 🔥
