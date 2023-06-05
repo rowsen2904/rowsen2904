@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Rowsen.<br>
-        Learning Python's Web Framework Django.<br>
+        Learning Python's Web Framework Django and Swift.<br>
         Wanna find Middle and Senior Django developers and work with them to get more experience.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/rowsen-bayramov-952a54260/">
@@ -14,6 +14,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/rowsen2904)
+[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/rowsen2904)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/rowsen2904)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/rowsen2904)
 
