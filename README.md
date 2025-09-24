@@ -1,16 +1,13 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome+👋;+I'm+Rovhsen;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome+👋;+I'm+noname;" />
 </h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Rovhsen.<br>
+        I'm Noname<br>
         Learning Python's Web Framework Django and JavaScript's Framework React Native.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/rovshen-bayramov-952a54260/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
 </p>
 
 ### Languages
