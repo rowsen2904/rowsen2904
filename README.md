@@ -1,11 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome+👋;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wellcome+👋;+I'm+Rovhsen;" />
 </h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        Learning Python's Web Framework Django and JavaScript's Framework React Native.<br>
+        I'm Software Engineer<br>
+        Building Backend & Mobile Apps with Django, FastAPI & React Native
     </i><br>
 </p>
 
@@ -17,6 +18,7 @@
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/rowsen2904)
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/rowsen2904)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/rowsen2904)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/rowsen2904)
 [![React-Native](https://camo.githubusercontent.com/6e3e6e551b6f70861321e266fbc538a19ce917645fedf232c9c32ead0c5accf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454143544e41544956452d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374)](https://github.com/rowsen2904)
