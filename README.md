@@ -6,7 +6,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Software Engineer<br>
-        Building Backend & Mobile Apps with Django, FastAPI & React Native
+        Building Backend & Mobile Apps with Django, FastAPI & React Native<br>
+        Currently I'm learning Golang
     </i><br>
 </p>
 
@@ -15,6 +16,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/rowsen2904)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/rowsen2904)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/rowsen2904)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/rowsen2904)
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/rowsen2904)
