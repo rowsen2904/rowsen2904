@@ -22,8 +22,8 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/rowsen2904)
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/rowsen2904)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/rowsen2904)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/rowsen2904)
-[![React-Native](https://img.shields.io/badge/-React%20native-000?&logo=React)](https://github.com/rowsen2904)
+[![CSS3](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS)](https://github.com/rowsen2904)
+[![React-Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)](https://github.com/rowsen2904)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/rowsen2904)
 
 ### OS
