@@ -44,11 +44,14 @@
 
 ## 🏆 Featured Projects
 
-- **Ads Microservice** — microservice architecture project  
-- **SMS Sender** — service for sending and managing SMS workflows  
-- **Burty** — sports field rental platform  
-- **Video Backend** — backend for video hosting and streaming  
-- **Taxi** — taxi service backend system
+- **Auction** — B2B online auction platform for brokers and developers with real-time bidding and scalable backend architecture  
+- **OCHI – AI Stylist** — AI stylist assistant for wardrobe management, outfit planning, and personalized style recommendations  
+- **Healy AI** — AI healthcare assistant delivering friendly, personalized wellness insights and recommendations  
+- **Ads Microservice** — microservice-based system for advertisement management and delivery workflows  
+- **SMS Sender** — backend service for sending and managing SMS communications  
+- **Burty** — platform for renting sports fields with booking functionality  
+- **Video Backend** — backend for video hosting, streaming, and media handling  
+- **Taxi** — backend system for taxi service operations
 
 ## 📊 GitHub Analytics
 
