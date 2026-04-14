@@ -1,19 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=70&lines=Welcome+to+my+GitHub!;I'm+Rovshen+Bayramov;Software+Engineer;Backend+%7C+AI+%7C+Mobile+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00C896&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+GitHub!;I'm+Rovhsen+Bayramov;Backend+%26+Mobile+Engineer;Django+%7C+FastAPI+%7C+React+Native" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rowsen2904&label=Profile%20views&color=22c55e&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rowsen2904&label=Profile%20views&color=00C896&style=flat" alt="rowsen2904" />
 </p>
 
 <p align="center">
   <b>Software Engineer</b><br>
-  Building backend systems, AI-powered products, and mobile applications
+  Building scalable backend systems and mobile apps<br>
+  with <b>Django</b>, <b>FastAPI</b>, and <b>React Native</b>
 </p>
 
 <p align="center">
   <a href="mailto:bayrumovw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00C896?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/rowsen2904">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -22,20 +23,18 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I’m a software engineer focused on building scalable backend systems and product-oriented applications.
-
-My main stack includes **Django**, **FastAPI**, and **React Native**.  
-I enjoy creating practical solutions, integrating AI into products, and improving code quality through clean architecture.
-
-- Open to freelance opportunities and collaborations
-- Interested in backend engineering, AI systems, and mobile products
-- Currently learning **Golang**
+- 💻 Backend & Mobile Developer focused on real-world products
+- 🛠 Building with **Django**, **FastAPI**, and **React Native**
+- 🌱 Currently learning **Go** and improving system design skills
+- 🤝 Open to **freelance** and interesting collaborations
+- 💬 I enjoy building useful products and solving practical problems
+- 🎯 Goal: create scalable software that people genuinely use
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,go,react,postgres,redis,docker,git,github,html,css,bootstrap" />
@@ -43,65 +42,62 @@ I enjoy creating practical solutions, integrating AI into products, and improvin
 
 ---
 
-## Featured Projects
+## 🏆 Featured Projects
 
-### Auction
-B2B online auction platform for brokers and developers with real-time bidding and scalable backend workflows.
+- **Ads Microservice** — microservice architecture project  
+- **SMS Sender** — service for sending and managing SMS workflows  
+- **Burty** — sports field rental platform  
+- **Video Backend** — backend for video hosting and streaming  
+- **Taxi** — taxi service backend system
 
-### OCHI – AI Stylist
-AI-powered stylist assistant for wardrobe management, outfit planning, and personalized recommendations.
-
-### Healy AI
-AI healthcare assistant delivering personalized wellness insights and health-oriented recommendations.
-
-### Ads Microservice
-Microservice-based system for managing advertisement workflows.
-
-### SMS Sender
-Backend service for sending and managing SMS communications.
-
-### Burty
-Sports field rental platform with booking functionality.
-
-### Video Backend
-Backend system for video hosting, streaming, and media workflows.
-
-### Taxi
-Backend system for taxi service operations.
-
----
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rowsen2904&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rowsen2904&theme=transparent&hide_border=true" />
+  <a href="https://github.com/rowsen2904">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=rowsen2904&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/rowsen2904">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rowsen2904&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowsen2904&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+  <a href="https://github.com/rowsen2904">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowsen2904&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rowsen2904">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rowsen2904&theme=transparent" />
+  </a>
 </p>
 
 ---
 
-## Current Focus
+## 🔥 Current Focus
 
-- Scalable backend architecture
-- AI integration into real products
-- API design for mobile and web applications
-- Learning Go and improving system design skills
-
----
-
-## Contact
-
-- **Email:** bayrumovw@gmail.com
-- **GitHub:** github.com/rowsen2904
+- Building clean and scalable backend architecture
+- Designing APIs for mobile and web applications
+- Exploring **Golang** for high-performance services
+- Improving product thinking and engineering quality
 
 ---
 
-## Personal
+## 📬 Contact
 
-- 🎮 CS2
-- 🎧 Music
-- 🔥 Max Korzh
+- Email: **bayrumovw@gmail.com**
+
+---
+
+## ⚡ Fun Side
+
+- 🎮 Playing CS2
+- 🎵 Listening to music
+- 🎧 Favorite artist: **Max Korzh**
+
+---
+
+<p align="center">
+  <i>"Code with purpose. Build with vision."</i>
+</p>
