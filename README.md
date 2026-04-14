@@ -1,90 +1,94 @@
-<h1 align="center">Rovshen Bayramov</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=650&height=70&lines=Welcome+to+my+GitHub!;I'm+Rovshen+Bayramov;Software+Engineer;Backend+%7C+AI+%7C+Mobile+Apps" />
+</h1>
+
 <p align="center">
-  <b>Software Engineer</b><br>
-  Backend Development • AI Systems • Mobile Applications
+  <img src="https://komarev.com/ghpvc/?username=rowsen2904&label=Profile%20views&color=22c55e&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="mailto:bayrumovw@gmail.com">Email</a> •
-  <a href="https://github.com/rowsen2904">GitHub</a>
+  <b>Software Engineer</b><br>
+  Building backend systems, AI-powered products, and mobile applications
+</p>
+
+<p align="center">
+  <a href="mailto:bayrumovw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rowsen2904">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I am a software engineer focused on building reliable backend systems, AI-powered products, and mobile applications.  
+I’m a software engineer focused on building scalable backend systems and product-oriented applications.
+
 My main stack includes **Django**, **FastAPI**, and **React Native**.  
-I enjoy working on practical products, clean architecture, and scalable APIs.
+I enjoy creating practical solutions, integrating AI into products, and improving code quality through clean architecture.
 
 - Open to freelance opportunities and collaborations
-- Interested in backend engineering, AI integration, and product development
+- Interested in backend engineering, AI systems, and mobile products
 - Currently learning **Golang**
 
 ---
 
-## Core Stack
+## Tech Stack
 
-### Languages
-- Python
-- TypeScript
-- JavaScript
-- SQL
-- Go
-
-### Frameworks & Tools
-- Django
-- FastAPI
-- React Native
-- PostgreSQL
-- Redis
-- Docker
-- Git
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,go,react,postgres,redis,docker,git,github,html,css,bootstrap" />
+</p>
 
 ---
 
 ## Featured Projects
 
 ### Auction
-B2B online auction platform connecting brokers and developers with real-time bidding and scalable backend workflows.
+B2B online auction platform for brokers and developers with real-time bidding and scalable backend workflows.
 
 ### OCHI – AI Stylist
-AI stylist assistant for wardrobe management, outfit planning, and personalized style recommendations.
+AI-powered stylist assistant for wardrobe management, outfit planning, and personalized recommendations.
 
 ### Healy AI
-AI healthcare assistant focused on personalized wellness guidance and user-friendly health recommendations.
+AI healthcare assistant delivering personalized wellness insights and health-oriented recommendations.
 
 ### Ads Microservice
-Microservice-based system for managing advertisement workflows and backend delivery processes.
+Microservice-based system for managing advertisement workflows.
 
 ### SMS Sender
-Service for sending and managing SMS communications.
+Backend service for sending and managing SMS communications.
 
 ### Burty
 Sports field rental platform with booking functionality.
 
 ### Video Backend
-Backend system for video hosting, streaming, and media-related operations.
+Backend system for video hosting, streaming, and media workflows.
 
 ### Taxi
-Backend system for taxi service operations and transportation workflows.
+Backend system for taxi service operations.
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rowsen2904&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowsen2904&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rowsen2904&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rowsen2904&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowsen2904&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Backend architecture and API design
-- AI integration into production-oriented products
-- Mobile app development
+- Scalable backend architecture
+- AI integration into real products
+- API design for mobile and web applications
 - Learning Go and improving system design skills
 
 ---
@@ -98,5 +102,6 @@ Backend system for taxi service operations and transportation workflows.
 
 ## Personal
 
-- Enjoy gaming and music
-- Favorite artist: **Max Korzh**
+- 🎮 CS2
+- 🎧 Music
+- 🔥 Max Korzh
