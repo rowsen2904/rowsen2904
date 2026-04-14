@@ -91,6 +91,34 @@
 
 ---
 
+---
+## 🚀 Featured Projects
+
+### **Auction**
+**B2B online auction platform** connecting brokers and developers with real-time bidding, sealed bids, and scalable backend workflows.
+
+### **OCHI – AI Stylist**
+**AI-powered stylist assistant** for wardrobe management, outfit planning, personal style guidance, and smart fashion recommendations.
+
+### **Healy AI**
+**AI healthcare assistant** designed to provide friendly, personalized wellness insights and health-focused recommendations.
+
+### **Ads Microservice**
+**Microservice-based advertising system** for managing ad workflows, delivery processes, and scalable campaign logic.
+
+### **SMS Sender**
+**Backend communication service** for sending, managing, and automating SMS workflows reliably.
+
+### **Burty**
+**Sports field rental platform** with booking functionality and a user-friendly service flow.
+
+### **Video Backend**
+**Media backend system** for video hosting, streaming, processing, and content delivery.
+
+### **Taxi**
+**Taxi service backend** built for transportation workflows, trip handling, and operational logic.
+---
+
 <p align="center">
   <i>"Code with purpose. Build with vision."</i>
 </p>
