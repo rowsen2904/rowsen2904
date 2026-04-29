@@ -8,7 +8,10 @@
 
 <p align="center">
   <b>Software Engineer</b><br>
-  <b>Founder of Qiao</b><br>
+  <b>Founder of </b> 
+  <a href="https://qiaoguide.com">
+  Qiao
+  </a><br>
   Building scalable backend systems and mobile apps<br>
   with <b>Django</b>, <b>FastAPI</b>, and <b>React Native</b>
 </p>
